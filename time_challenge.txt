@@ -1,0 +1,7 @@
+Reflection:
+For this timed challenge, I chose a set because the problem was asking me to count the number of unique words. A set works well because it automatically keeps only one copy of each value. This made the solution simple and helped me avoid having to manually check if every word was already in a list. The 30-minute time limit affected my decision because I wanted to choose a
+solution that I understood and could complete without spending too much time on complicated code. I focused on getting a working solution first and then tested it with several different inputs. I tested a normal sentence, an empty string, repeated words, and a sentence with multiple different words. These tests helped me make sure the function worked for both normal and edge cases.
+One trade-off I made was using Python's built-in split() and set() instead of creating my own data structure. This made the solution shorter and easier to understand, but it also means I am depending on Python's built in tools. Under time pressure, I thought this was a good choice because the goal was to solve the problem correctly and efficiently.
+
+Overall, this challenge showed me that choosing the right data structure can make a problem much easier. It also helped me practice making decisions quickly instead of spending too much time trying to create a complicated
+solution.
